@@ -403,7 +403,7 @@ export default function Home() {
             </Card>
 
             <Card className="p-6 bg-card/50 backdrop-blur-sm border-border/50 text-center">
-              <div className="text-4xl mb-3">🎓</div>
+              <div className="text-4xl mb-3">🌍</div>
               <h3 className="text-lg font-semibold mb-2">Traveling</h3>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Exploring new cultures and broadening perspectives
