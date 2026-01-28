@@ -30,7 +30,7 @@ export function ResumeViewer({ resumeUrl, className }: ResumeViewerProps) {
       </Button>
       <Button variant="outline" size="lg" onClick={handleDownload}>
         <Download className="mr-2 h-5 w-5" />
-        Download
+        Download Resume
       </Button>
     </div>
   )
