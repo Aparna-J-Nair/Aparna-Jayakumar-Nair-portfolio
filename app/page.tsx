@@ -54,7 +54,7 @@ export default function Home() {
           </div>
 
           <div className="flex flex-wrap gap-4 mb-12 justify-center">
-            <ResumeViewer resumeUrl="/APARNA_resume.pdf" />
+            <ResumeViewer resumeUrl="/Aparna_Jayakumar_Nair_Resume.pdf" />
             <Button
               variant="outline"
               size="lg"
